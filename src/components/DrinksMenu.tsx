@@ -24,6 +24,9 @@ const DrinksMenu = () => {
         <Modal title="BUNDLE OFFER" className="drink__modal">
           Buy a POPCORN and DRINK, and get a ₱5 discount!
         </Modal>
+        <Modal title="WHERE TO FIND US" className="location__modal">
+          SHS HALLWAY. GRADE 12 - INTEGRITY.
+        </Modal>
       </div>
     </section>
   );
